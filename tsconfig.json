@@ -1,0 +1,11 @@
+{
+  // 「N-DEV」により作成されました。
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "types": [
+      "mysql2",
+    ],
+    "allowJs": true,
+    "declaration": false,
+  }
+}
